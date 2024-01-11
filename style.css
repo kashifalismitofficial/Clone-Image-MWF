@@ -1,0 +1,48 @@
+.main_body
+{
+text-align: center;
+max-width: 600px;
+margin: auto;
+}
+.logo
+{
+margin-top: 100px ;
+margin-bottom: 20px ;
+}
+
+li{
+    display: inline;
+    padding: 25px;
+}
+
+a:hover
+{
+color: #800000;
+}
+
+a
+{
+    text-decoration: none;
+    color: #000;
+}
+
+ul{
+    list-style: none;
+}
+
+.Pianos
+{
+margin-top: 25px;
+}
+.manu
+{
+font-size: 20px;
+text-transform: capitalize;
+border-top: 5px solid;
+border-bottom: 2px solid;
+}
+
+.para
+{
+margin-top: 20px;
+}
